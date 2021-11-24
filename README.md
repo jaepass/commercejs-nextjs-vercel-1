@@ -61,3 +61,8 @@ Please note that the site deploy will first fail as we have yet to enter in the 
 - Fetching real client reviews from reviews APIs
 - Adding search functionality
 - Leveraging webhooks to automate post checkout actions
+
+## ⚠️ Note
+
+### This repository is no longer maintained
+For update-to-date APIs, please check the latest version of the [API documentation](https://commercejs.com/docs/api/).
